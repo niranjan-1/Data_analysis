@@ -1,2 +1,3 @@
 # Data_analysis
-Data analysis with python and pandas library.
+Exploratory and Predictive analysis of various datasets.
+Do checkout my work and reach me for any suggestions.
